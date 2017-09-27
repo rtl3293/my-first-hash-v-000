@@ -24,5 +24,5 @@ def adding
   shipping_manifest['pearl necklace'] = 1
   #your code here
   #remember to return the shipping_manifest hash
-
+  shipping_manifest
 end
